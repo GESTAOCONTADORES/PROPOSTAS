@@ -1,5 +1,14 @@
 [
   {
+    "data": "06/03/2026 18:04",
+    "cliente": "MAURICIO",
+    "servico": "Abertura de Empresa",
+    "valorHab": "R$ 400,00",
+    "valorMen": "R$ 400,00",
+    "valorTjc": "R$ 425,45",
+    "link": "https://gestaocontadores.github.io/PROPOSTAS/propostas/Proposta_MAURICIO.html"
+  },
+  {
     "data": "06/03/2026 18:02",
     "cliente": "Cliente",
     "servico": "Abertura de Empresa",
