@@ -1,5 +1,14 @@
 [
   {
+    "data": "09/03/2026 16:45",
+    "cliente": "SANTIAGO E RIBEIRO ODONTOLOGIA",
+    "servico": "Honorário Mensal",
+    "valorHab": "R$ 500,00",
+    "valorMen": "500,00",
+    "valorTjc": "R$ 425,45",
+    "link": "https://gestaocontadores.github.io/PROPOSTAS/propostas/Proposta_SANTIAGO_E_RIBEIRO_ODONTOLOGIA.html"
+  },
+  {
     "data": "09/03/2026 13:32",
     "cliente": "Edu Oliveira",
     "servico": "Abertura de Empresa",
