@@ -1,8 +1,17 @@
 [
   {
+    "data": "09/03/2026 17:33",
+    "cliente": "Alisson",
+    "servico": "Abertura de Empresa",
+    "valorHab": "500,00",
+    "valorMen": "450,00",
+    "valorTjc": "R$ 425,45",
+    "link": "https://gestaocontadores.github.io/PROPOSTAS/propostas/Proposta_Alisson.html"
+  },
+  {
     "data": "09/03/2026 16:45",
     "cliente": "SANTIAGO E RIBEIRO ODONTOLOGIA",
-    "servico": "Honorário Mensal",
+    "servico": "HonorÃ¡rio Mensal",
     "valorHab": "R$ 500,00",
     "valorMen": "500,00",
     "valorTjc": "R$ 425,45",
