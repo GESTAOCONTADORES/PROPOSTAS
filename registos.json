@@ -1,8 +1,17 @@
 [
   {
+    "data": "12/03/2026 12:45",
+    "cliente": "Vitor Hugo",
+    "servico": "Honorário Mensal",
+    "valorHab": "R$ 400,00",
+    "valorMen": "500,00",
+    "valorTjc": "R$ 425,45",
+    "link": "https://gestaocontadores.github.io/PROPOSTAS/propostas/Proposta_Vitor_Hugo.html"
+  },
+  {
     "data": "11/03/2026 13:05",
     "cliente": "Palloma Souza",
-    "servico": "Transformação MEI - LTDA",
+    "servico": "TransformaÃ§Ã£o MEI - LTDA",
     "valorHab": "700,00",
     "valorMen": "R$ 450,00",
     "valorTjc": "293,73",
@@ -20,7 +29,7 @@
   {
     "data": "09/03/2026 16:45",
     "cliente": "SANTIAGO E RIBEIRO ODONTOLOGIA",
-    "servico": "HonorÃÂ¡rio Mensal",
+    "servico": "HonorÃÂÃÂ¡rio Mensal",
     "valorHab": "R$ 500,00",
     "valorMen": "500,00",
     "valorTjc": "R$ 425,45",
