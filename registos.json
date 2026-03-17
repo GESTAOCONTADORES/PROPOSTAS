@@ -1,5 +1,14 @@
 [
   {
+    "data": "17/03/2026 14:26",
+    "cliente": "Eduardo - Nutricionista",
+    "servico": "Abertura de Empresa",
+    "valorHab": "R$ 400,00",
+    "valorMen": "R$ 450,00",
+    "valorTjc": "R$ 474,00",
+    "link": "https://gestaocontadores.github.io/PROPOSTAS/propostas/Proposta_Eduardo_Nutricionista.html"
+  },
+  {
     "data": "13/03/2026 12:55",
     "cliente": "Fernando - Audiovisual",
     "servico": "Abertura de Empresa",
@@ -11,7 +20,7 @@
   {
     "data": "12/03/2026 12:45",
     "cliente": "Vitor Hugo",
-    "servico": "HonorÃ¡rio Mensal",
+    "servico": "HonorÃÂ¡rio Mensal",
     "valorHab": "R$ 400,00",
     "valorMen": "500,00",
     "valorTjc": "R$ 425,45",
@@ -20,7 +29,7 @@
   {
     "data": "11/03/2026 13:05",
     "cliente": "Palloma Souza",
-    "servico": "TransformaÃÂ§ÃÂ£o MEI - LTDA",
+    "servico": "TransformaÃÂÃÂ§ÃÂÃÂ£o MEI - LTDA",
     "valorHab": "700,00",
     "valorMen": "R$ 450,00",
     "valorTjc": "293,73",
@@ -38,7 +47,7 @@
   {
     "data": "09/03/2026 16:45",
     "cliente": "SANTIAGO E RIBEIRO ODONTOLOGIA",
-    "servico": "HonorÃÂÃÂÃÂÃÂ¡rio Mensal",
+    "servico": "HonorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rio Mensal",
     "valorHab": "R$ 500,00",
     "valorMen": "500,00",
     "valorTjc": "R$ 425,45",
