@@ -1,5 +1,14 @@
 [
   {
+    "data": "14/09/2026 15:22",
+    "cliente": "TESTE DP",
+    "servico": "Abertura de Empresa",
+    "valorHab": "R$ 400,00",
+    "valorMen": "R$ 400,00",
+    "valorTjc": "R$ 425,45",
+    "link": "https://gestaocontadores.github.io/PROPOSTAS/propostas/Proposta_TESTE_DP.html"
+  },
+  {
     "data": "03/09/2026 17:46",
     "cliente": "TESTE 1",
     "servico": "Abertura de Empresa",
